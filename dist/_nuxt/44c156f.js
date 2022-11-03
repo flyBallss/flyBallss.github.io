@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{1223:function(n,r,t){"use strict";t.r(r);var c={asyncData:function(n){return{params:n.params.id}}},e=t(61),component=Object(e.a)(c,(function(){var n=this;return(0,n._self._c)("div",[n._v("id"+n._s(n.params))])}),[],!1,null,null,null);r.default=component.exports}}]);
